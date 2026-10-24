@@ -13,7 +13,7 @@
 > Building scalable applications, solving challenging problems, and learning by building real-world software.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+Engineering+Enthusiast;650%2B+LeetCode+Problems+Solved;Building+Distributed+Systems;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+Engineering+Enthusiast;700%2B+LeetCode+Problems+Solved;Building+Distributed+Systems;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
