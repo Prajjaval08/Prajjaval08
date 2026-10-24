@@ -37,7 +37,7 @@ I'm a Computer Science and Engineering student at **SRM Institute of Science and
 - 🎓 B.Tech — Computer Science and Engineering (2023–2027)
 - 💻 Backend APIs with Node.js, TypeScript, Express.js, and Spring Boot
 - 🏗️ Exploring distributed systems, async processing, caching, and system design
-- 🧠 Solved 650+ problems on LeetCode
+- 🧠 Solved 700+ problems on LeetCode
 - 🌱 Strengthening backend engineering and production deployment skills
 - 🎯 Goal: Become a strong software engineer by combining problem-solving with practical engineering
 
